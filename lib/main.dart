@@ -47,7 +47,7 @@ void main() {
               ),
               Container(
                 padding: EdgeInsets.fromLTRB(10, 40, 20, 10),
-                height: 150.0,
+                height: 120.0,
                 width: 250.0,
                 color: Colors.tealAccent,
                 child: Text('Container 3'),
