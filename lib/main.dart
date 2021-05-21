@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.teal,
         body: SafeArea(
-          child: Column(
+          child: Row(
 
             crossAxisAlignment: CrossAxisAlignment.end,
             //mainAxisSize: MainAxisSize.min,
