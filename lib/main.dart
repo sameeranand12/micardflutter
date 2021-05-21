@@ -8,8 +8,9 @@ void main() {
         backgroundColor: Colors.teal,
         body: SafeArea(
           child: Column(
+
             crossAxisAlignment: CrossAxisAlignment.end,
-            mainAxisSize: MainAxisSize.min,
+            //mainAxisSize: MainAxisSize.min,
             //verticalDirection: VerticalDirection.up,
 
             children: [
@@ -37,6 +38,9 @@ void main() {
                 width: 150.0,
                 color: Colors.lightBlueAccent,
                 child: Text('Container 1'),
+              ),
+              SizedBox(
+                height: 20.0,
               ),
               Container(
                 padding: EdgeInsets.fromLTRB(10, 40, 20, 10),
