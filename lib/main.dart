@@ -10,7 +10,8 @@ void main() {
           child: Row(
 
             crossAxisAlignment: CrossAxisAlignment.stretch,
-            //mainAxisSize: MainAxisSize.min,
+            //mainAxisSize: MainAxisSize.minthtgff,
+            //two days wasted
             //verticalDirection: VerticalDirection.up,
 
             children: [
